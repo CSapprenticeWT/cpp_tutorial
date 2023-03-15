@@ -1,0 +1,4 @@
+ToolSet: 3.4.6 (local)@D:\tools\cygwin
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=/cygdrive/d/tools/clion/CLion 2022.2.4/bin/ninja/cygwin/ninja.exe
